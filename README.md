@@ -24,4 +24,6 @@ Step 3: Install the deploy model circuit into the kit
 Step 4: Connect the motor to the key.
 After installing the circuit and repeating the code to adjust, finally connect the servo motor with the latch accordingly.
 
+-Result:
+
 <img width="585" alt="Test_Image" src="https://user-images.githubusercontent.com/81319640/154444091-79e1d15c-063d-4d48-9449-a29e0e865307.png">
